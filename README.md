@@ -474,11 +474,11 @@ The assignment/micro-project structure, evaluation methodology, and coverage-con
 
 ### **Author**
 
-Ayushman M. (https://github.com/aymisxx)  
+Ayushman M. (https://github.com/infinitepriest)  
 M.S. Robotics & Autonomous Systems (MAE)  
 Arizona State University
 
-### **License**
+### **LICENSE**
 
 Creative Commons Attribution 4.0 International License (CC-BY-4.0)
 
